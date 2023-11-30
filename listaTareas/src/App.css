@@ -1,0 +1,27 @@
+.titulo{
+    background: linear-gradient(150deg, rgb(231, 25, 100), rgb(158, 105, 197) 50%);
+    text-align: center;
+    color: black;
+    height:13rem;
+    padding:4rem;
+}
+#search{
+    height: 5rem;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    
+}
+table{
+    margin-left: 10rem;
+    margin-right: 5rem;
+    width: 80%;
+}
+
+
+.icons:hover{
+    cursor:pointer;
+}
+.completed{
+    text-decoration: line-through;
+    color:tomato;
+}
